@@ -28,5 +28,5 @@ This is a simple URL Shortener built with Flask, SQLite, and Docker. The applica
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/url-shortener.git
+      git clone https://github.com/AkankshMadhur/url-shortener.git
    cd url-shortener
